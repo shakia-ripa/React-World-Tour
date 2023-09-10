@@ -7,8 +7,8 @@
     text-align: left;
 }
 .visited{
-    background-color: none;
+    background-color:azure;
 }
 .non-visited{
-    background-color: darkgray;
+    background-color: none;
 }
